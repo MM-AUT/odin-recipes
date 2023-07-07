@@ -1,7 +1,13 @@
+* {
+    margin: 5px;
+}
+
+
 h1 {
     color: #c8c8cf;
     background-color: darkslateblue;
-    text-align: center
+    text-align: center;
+    padding: 10px;
 }
 
 img {
