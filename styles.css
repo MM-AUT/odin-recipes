@@ -42,9 +42,12 @@ img {
 .container {
     border: 5px solid darkslateblue;
     display: flex;
-    width: 200px;
+    width: 220px;
     margin-left: auto;
     margin-right: auto;
+    justify-content: space-between;
+    padding: 4px;
+    gap: 4px;
   }
 
 .back,
@@ -53,5 +56,5 @@ img {
     padding: 20px;
     text-align: center;
     flex: 1;
-    margin: 2px;
+    margin: 0px;
 }
